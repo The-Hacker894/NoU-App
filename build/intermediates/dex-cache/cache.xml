@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/skylarmccauley/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/9e13c41f98b1522c6fdb193a9149b5cc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="/Users/skylarmccauley/AndroidStudioProjects/NoU/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skylarmccauley/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/2e7459ff1d07482c4685e32011b7733e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c9a721adcd7dbae7a197b0ef81102336539f63ff">
+        <dex dex="/Users/skylarmccauley/AndroidStudioProjects/NoU/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skylarmccauley/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.1/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.1.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="/Users/skylarmccauley/AndroidStudioProjects/NoU/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skylarmccauley/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/acd5f4686391d27f09180598e75843f0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="874f1143c11f5d38533efe512bf913e3e847e7df">
+        <dex dex="/Users/skylarmccauley/AndroidStudioProjects/NoU/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skylarmccauley/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/057868c683a627fd1a387aec1df7f21f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="/Users/skylarmccauley/AndroidStudioProjects/NoU/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skylarmccauley/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.0/8007981f7d7540d89cd18471b8e5dcd2b4f99167/common-1.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="/Users/skylarmccauley/AndroidStudioProjects/NoU/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skylarmccauley/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1340dd7b22aa4fdd2dd884f93d9c5c02/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d968b9bd0011800e0d333d1571b8d34bcb8a0b6e">
+        <dex dex="/Users/skylarmccauley/AndroidStudioProjects/NoU/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skylarmccauley/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/afe5a1d1d3c37298657233564e8fe2e1/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ec657bb192b20229696216bf233779b16bf75a54">
+        <dex dex="/Users/skylarmccauley/AndroidStudioProjects/NoU/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skylarmccauley/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f33ae768bfad0150517e369833faafef/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="/Users/skylarmccauley/AndroidStudioProjects/NoU/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skylarmccauley/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="/Users/skylarmccauley/AndroidStudioProjects/NoU/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skylarmccauley/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/1b56689c22b6dce637ba64c4f525f2cf/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3304d33470ff64cf83bce9189ff3648a42eb2aa7">
+        <dex dex="/Users/skylarmccauley/AndroidStudioProjects/NoU/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skylarmccauley/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/813aa1cadb7794d27564548d8c93a04f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="23dcb4803d3103bde3f3f5db978a726338fe49ae">
+        <dex dex="/Users/skylarmccauley/AndroidStudioProjects/NoU/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skylarmccauley/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/76fa3ae68cd189559c489084bad320da/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2feadd535770271ca57b7b431f42151aa4af324a">
+        <dex dex="/Users/skylarmccauley/AndroidStudioProjects/NoU/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skylarmccauley/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2058d8f6ece9c4e7410e299cb3bc33a3/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="/Users/skylarmccauley/AndroidStudioProjects/NoU/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+
+</items>
